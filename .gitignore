@@ -1,0 +1,6 @@
+**/.vs
+**/Debug
+**.sln
+**.vcxproj*
+things.txt
+en_temp_folder
